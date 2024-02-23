@@ -1,8 +1,10 @@
 ### Hi there, I'm [Petras Vestartas](https://petrasvestartas.com) 👋
-[![Petras Vestartas's GitHub stats](https://github-readme-stats.vercel.app/api?username=petrasvestartas&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Petras Vestartas's GitHub stats](https://github-readme-stats.vercel.app/api?username=petrasvestartas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**icekang/icekang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--
+**petrasvestartas/petrasvestartas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
