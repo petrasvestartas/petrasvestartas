@@ -1,6 +1,4 @@
 ### Hi there, I'm [Petras Vestartas](https://petrasvestartas.com) 👋
-[![Petras Vestartas's GitHub stats](https://github-readme-stats.vercel.app/api?username=petrasvestartas&theme=default&bg_color=ffffff&text_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
