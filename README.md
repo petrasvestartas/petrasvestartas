@@ -1,4 +1,4 @@
-### Hi there, I'm [Petras Vestartas](https://petrasvestartas.com) 👋
+### Hi there, I'm [Petras Vestartas](https://vestartas.com) 👋
 
 
 
