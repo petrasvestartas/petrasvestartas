@@ -40,6 +40,7 @@ Open-source work in the labs and ecosystems I'm part of.
 
 - **[compas_cgal](https://github.com/compas-dev/compas_cgal)** — CGAL bindings for COMPAS — booleans, meshing, slicing, remeshing
 - **[compas_libigl](https://github.com/compas-dev/compas_libigl)** — libigl bindings for COMPAS — geodesics, parametrisation, isolines
+- **[compas_occt](https://github.com/petrasvestartas/compas_occt)** — OpenCASCADE (OCCT 8) geometry for COMPAS: NURBS, Breps, booleans and STEP/IGES/STL I/O. A drop-in [`compas_occ`](https://github.com/compas-dev/compas_occ) replacement that links OCCT through a single `nanobind` module instead of `pythonocc-core`. &nbsp;[📖 Docs](https://petrasvestartas.github.io/compas_occt) &nbsp;[📦 PyPI](https://pypi.org/project/compas-occt/)
 - **[compas_shapeop](https://github.com/compas-dev/compas_shapeop)** — ShapeOp bindings via `nanobind` — constraint-based geometry solving
 - **[compas_nanobind_package_template](https://github.com/compas-dev/compas_nanobind_package_template)** — cookiecutter template for COMPAS C++ extensions
 - **[compas](https://github.com/compas-dev/compas)** — the main COMPAS library and its Rhino / Grasshopper / Blender integrations
