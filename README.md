@@ -4,7 +4,11 @@
 
 **Geometry kernels · Robotics · Computer vision**
 
+I build open-source tools for geometry processing, digital fabrication and engineering.
+
 PhD, [IBOIS](https://www.epfl.ch/labs/ibois/), EPFL &nbsp;&nbsp;|&nbsp;&nbsp; Postdoc, [Block Research Group](https://block.arch.ethz.ch), ETH Zürich
+
+
 
 [![Website](https://img.shields.io/badge/vestartas.com-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vestartas.com)
 [![Sponsor](https://img.shields.io/badge/Sponsor-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/petrasvestartas)
@@ -12,7 +16,7 @@ PhD, [IBOIS](https://www.epfl.ch/labs/ibois/), EPFL &nbsp;&nbsp;|&nbsp;&nbsp; Po
 
 
 
-I build open-source tools for geometry processing, digital fabrication and engineering.
+
 </div>
 
 <div align="center">
