@@ -16,9 +16,6 @@ I build open-source geometry tooling for architecture and digital fabrication: *
 generation**, **2D nesting** for sheet material, and **multi-language geometry kernels** that expose
 one identical API from Python, C++ and Rust.
 
-Most of it ships as C++ solvers behind Python and Grasshopper front ends, so it runs the same way
-in a research script and on a shop floor.
-
 ---
 
 ## Featured projects
