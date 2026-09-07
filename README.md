@@ -1,5 +1,9 @@
 ### Hi there, I'm [Petras Vestartas](https://vestartas.com) 👋
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?logo=githubsponsors&logoColor=white&style=for-the-badge)](https://github.com/sponsors/petrasvestartas)
+
+If my open-source work (**[wood](https://github.com/petrasvestartas/wood)**, **[compas_wood](https://github.com/petrasvestartas/compas_wood)**, **[OpenNest](https://github.com/petrasvestartas/OpenNest)**) is useful to you, please consider [sponsoring me](https://github.com/sponsors/petrasvestartas).
+
 
 
 <!--
