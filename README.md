@@ -32,6 +32,37 @@ in a research script and on a shop floor.
 
 ---
 
+## Core contributions
+
+Open-source work in the labs and ecosystems I'm part of.
+
+**[COMPAS](https://compas.dev)** — computational framework for architecture, engineering and fabrication
+
+- **[compas_cgal](https://github.com/compas-dev/compas_cgal)** — CGAL bindings for COMPAS — booleans, meshing, slicing, remeshing
+- **[compas_libigl](https://github.com/compas-dev/compas_libigl)** — libigl bindings for COMPAS — geodesics, parametrisation, isolines
+- **[compas_shapeop](https://github.com/compas-dev/compas_shapeop)** — ShapeOp bindings via `nanobind` — constraint-based geometry solving
+- **[compas_nanobind_package_template](https://github.com/compas-dev/compas_nanobind_package_template)** — cookiecutter template for COMPAS C++ extensions
+- **[compas](https://github.com/compas-dev/compas)** — the main COMPAS library and its Rhino / Grasshopper / Blender integrations
+
+**[Block Research Group](https://block.arch.ethz.ch), ETH Zürich**
+
+- **[compas_model](https://github.com/BlockResearchGroup/compas_model)** — universal model datastructure for design, analysis, fabrication and construction
+- **[compas-RV](https://github.com/BlockResearchGroup/compas-RV)** — Rhino plugin for form finding of compression networks via reciprocal form and force diagrams
+- **[compas_cra](https://github.com/BlockResearchGroup/compas_cra)** — Coupled Rigid-Block Analysis — stability-aware design of discrete-element assemblies
+- **[compas_lmgc90](https://github.com/BlockResearchGroup/compas_lmgc90)** — COMPAS wrapper around the LMGC90 multi-body contact solver
+- **[compas_3dec](https://github.com/BlockResearchGroup/compas_3dec)** — discrete element modelling with Itasca 3DEC
+- **[compas_tf](https://github.com/BRG-research/compas_tf)** — topology finding for timber floor systems
+- **[compas_grid](https://github.com/BRG-research/compas_grid)** — grid structure models for multi-storey buildings
+- **[compas_cnc](https://github.com/BRG-research/compas_cnc)** — subtractive fabrication operations
+
+**[IBOIS](https://www.epfl.ch/labs/ibois/), EPFL** — Laboratory for Timber Constructions
+
+- **[Cockroach](https://github.com/ibois-epfl/Cockroach)** — Rhino plug-in for point cloud post-processing and meshing
+- **[Raccoon-ibois](https://github.com/ibois-epfl/Raccoon-ibois)** — CNC toolpath generation for timber fabrication
+- **[COMPAS_ABB6700_IRBT](https://github.com/ibois-epfl/COMPAS_ABB6700_IRBT)** — ROS and COMPAS setup for an ABB IRB6700 on a linear track
+
+---
+
 ## Toolbox
 
 **Languages**
