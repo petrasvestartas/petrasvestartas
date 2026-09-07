@@ -16,15 +16,16 @@ I build open-source geometry tooling for architecture and digital fabrication: *
 generation**, **2D nesting** for sheet material, and **multi-language geometry kernels** that expose
 one identical API from Python, C++ and Rust.
 
+Most of it ships as C++ solvers behind Python and Grasshopper front ends, so it runs the same way
+in a research script and on a shop floor.
+
 ---
 
 ## Featured projects
 
 | Project | What it does |
 | :--- | :--- |
-| **[wood](https://github.com/petrasvestartas/wood)** &nbsp; ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat-square) | Timber joint pipeline. Two plates touch — it figures out **where**, **which teeth** fit, and **carves** them into both plates. |
-| **[compas_wood](https://github.com/petrasvestartas/compas_wood)** &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | The joint generator as a [COMPAS](https://compas.dev) package. &nbsp;[📖 Docs](https://petrasvestartas.github.io/compas_wood/latest/) |
-| **[wood_nano](https://github.com/petrasvestartas/wood_nano)** &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | Fast `nanobind` Python bindings straight onto the `wood` C++ core. |
+| **[wood_research](https://github.com/petrasvestartas/wood_research)** &nbsp; ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | The timber-joinery stack as one superproject. [`wood`](https://github.com/petrasvestartas/wood) detects where two plates touch and carves the joint; [`wood_nano`](https://github.com/petrasvestartas/wood_nano) binds it to Python via `nanobind`; [`compas_wood`](https://github.com/petrasvestartas/compas_wood) wraps that for [COMPAS](https://compas.dev). Pinned as submodules, so one clone builds the whole chain. &nbsp;[📖 Docs](https://petrasvestartas.github.io/compas_wood/latest/) |
 | **[OpenNest](https://github.com/petrasvestartas/OpenNest)** &nbsp; ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=white&style=flat-square) | 2D polygonal nesting for Rhino / Grasshopper — parts with holes, nesting *inside* holes, non-rectangular sheets. &nbsp;[📖 Docs](https://petrasvestartas.github.io/OpenNest/) |
 | **[NGon](https://github.com/petrasvestartas/NGon)** &nbsp; ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=white&style=flat-square) | Polygonal (n-gon) mesh processing for Grasshopper. &nbsp;[📦 food4rhino](https://www.food4rhino.com/en/app/ngon) |
 | **[session](https://github.com/petrasvestartas/session)** &nbsp; ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square) | One geometry kernel, implemented three times — Python, C++, Rust — with identical APIs, shared protobuf schemas and one shared test suite. |
