@@ -18,14 +18,16 @@ one identical API from Python, C++ and Rust.
 
 ---
 
-## Projects
-
-**Own work**
+## Own work
 
 - **[wood_research](https://github.com/petrasvestartas/wood_research)** &nbsp;![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) — Timber joinery stack — solver, bindings, COMPAS wrapper. &nbsp;[📖](https://petrasvestartas.github.io/compas_wood/latest/)
 - **[OpenNest](https://github.com/petrasvestartas/OpenNest)** &nbsp;![C#](https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=white&style=flat-square) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat-square) — 2D nesting for Rhino / Grasshopper. &nbsp;[📖](https://petrasvestartas.github.io/OpenNest/)
 - **[NGon](https://github.com/petrasvestartas/NGon)** &nbsp;![C#](https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=white&style=flat-square) — N-gon mesh processing for Grasshopper. &nbsp;[📦](https://www.food4rhino.com/en/app/ngon)
 - **[session](https://github.com/petrasvestartas/session)** &nbsp;![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square) — One geometry kernel, three languages, one test suite.
+
+---
+
+## Team work
 
 **[COMPAS](https://compas.dev)** — computational framework for architecture, engineering and fabrication
 
