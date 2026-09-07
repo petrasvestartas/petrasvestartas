@@ -12,9 +12,7 @@ PhD in Timber Structures, [IBOIS](https://www.epfl.ch/labs/ibois/) · EPFL &nbsp
 
 </div>
 
-I build open-source geometry tooling for architecture and digital fabrication: **timber joint
-generation**, **2D nesting** for sheet material, and **multi-language geometry kernels** that expose
-one identical API from Python, C++ and Rust.
+I build open-source geometry tooling for digital fabrication.
 
 ---
 
