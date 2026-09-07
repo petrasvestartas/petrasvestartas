@@ -11,6 +11,13 @@ PhD in Timber Structures, [IBOIS](https://www.epfl.ch/labs/ibois/) · EPFL &nbsp
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/petrasvestartas)
 
 I build open-source geometry tooling for digital fabrication.
+
+<div align="center">
+
+[![Contribution activity](assets/contributions-light.svg)](https://github.com/petrasvestartas?tab=repositories#gh-light-mode-only)
+[![Contribution activity](assets/contributions-dark.svg)](https://github.com/petrasvestartas?tab=repositories#gh-dark-mode-only)
+
+</div>
 </div>
 
 
@@ -83,28 +90,16 @@ I build open-source geometry tooling for digital fabrication.
 
 ---
 
-## GitHub
+<div align="center">
 
 <div align="center">
 
-[![Profile overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petrasvestartas&theme=default)](https://github.com/petrasvestartas?tab=repositories#gh-light-mode-only)
-[![Profile overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petrasvestartas&theme=github_dark)](https://github.com/petrasvestartas?tab=repositories#gh-dark-mode-only)
-
-[![Top languages by repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=petrasvestartas&theme=default)](https://github.com/petrasvestartas?tab=repositories#gh-light-mode-only)
-[![Top languages by repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=petrasvestartas&theme=github_dark)](https://github.com/petrasvestartas?tab=repositories#gh-dark-mode-only)
-[![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=petrasvestartas&theme=default)](https://github.com/petrasvestartas?tab=repositories#gh-light-mode-only)
-[![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=petrasvestartas&theme=github_dark)](https://github.com/petrasvestartas?tab=repositories#gh-dark-mode-only)
-
-[![Contribution stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=petrasvestartas&theme=default)](https://github.com/petrasvestartas?tab=repositories#gh-light-mode-only)
-[![Contribution stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=petrasvestartas&theme=github_dark)](https://github.com/petrasvestartas?tab=repositories#gh-dark-mode-only)
-[![Productive hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=petrasvestartas&utcOffset=1&theme=default)](https://github.com/petrasvestartas?tab=repositories#gh-light-mode-only)
-[![Productive hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=petrasvestartas&utcOffset=1&theme=github_dark)](https://github.com/petrasvestartas?tab=repositories#gh-dark-mode-only)
+[![Language distribution](assets/languages-light.svg)](https://github.com/petrasvestartas?tab=repositories#gh-light-mode-only)
+[![Language distribution](assets/languages-dark.svg)](https://github.com/petrasvestartas?tab=repositories#gh-dark-mode-only)
 
 </div>
 
 ---
-
-<div align="center">
 
 ### Support this work
 
