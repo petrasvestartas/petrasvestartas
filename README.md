@@ -93,13 +93,3 @@ I build open-source geometry tooling for digital fabrication.
 ---
 
 <div align="center">
-
-### Support this work
-
-The libraries above are free and maintained in the open.
-If they save you time, sponsorship keeps them moving.
-
-[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on%20GitHub-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/petrasvestartas)
-[![Support on Ko-fi](https://img.shields.io/badge/Support%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/petrasvestartas)
-
-</div>
