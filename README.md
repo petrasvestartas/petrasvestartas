@@ -66,28 +66,18 @@ in a research script and on a shop floor.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petrasvestartas&theme=github_dark">
-  <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petrasvestartas&theme=default">
-</picture>
+[![Profile overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petrasvestartas&theme=default)](https://github.com/petrasvestartas?tab=repositories#gh-light-mode-only)
+[![Profile overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petrasvestartas&theme=github_dark)](https://github.com/petrasvestartas?tab=repositories#gh-dark-mode-only)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=petrasvestartas&theme=github_dark">
-  <img alt="Top languages by repository" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=petrasvestartas&theme=default">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=petrasvestartas&theme=github_dark">
-  <img alt="Top languages by commit" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=petrasvestartas&theme=default">
-</picture>
+[![Top languages by repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=petrasvestartas&theme=default)](https://github.com/petrasvestartas?tab=repositories#gh-light-mode-only)
+[![Top languages by repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=petrasvestartas&theme=github_dark)](https://github.com/petrasvestartas?tab=repositories#gh-dark-mode-only)
+[![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=petrasvestartas&theme=default)](https://github.com/petrasvestartas?tab=repositories#gh-light-mode-only)
+[![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=petrasvestartas&theme=github_dark)](https://github.com/petrasvestartas?tab=repositories#gh-dark-mode-only)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=petrasvestartas&theme=github_dark">
-  <img alt="Contribution stats" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=petrasvestartas&theme=default">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=petrasvestartas&theme=github_dark&utcOffset=1">
-  <img alt="Productive time" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=petrasvestartas&theme=default&utcOffset=1">
-</picture>
+[![Contribution stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=petrasvestartas&theme=default)](https://github.com/petrasvestartas?tab=repositories#gh-light-mode-only)
+[![Contribution stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=petrasvestartas&theme=github_dark)](https://github.com/petrasvestartas?tab=repositories#gh-dark-mode-only)
+[![Productive hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=petrasvestartas&utcOffset=1&theme=default)](https://github.com/petrasvestartas?tab=repositories#gh-light-mode-only)
+[![Productive hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=petrasvestartas&utcOffset=1&theme=github_dark)](https://github.com/petrasvestartas?tab=repositories#gh-dark-mode-only)
 
 </div>
 
