@@ -10,9 +10,10 @@ PhD in Timber Structures, [IBOIS](https://www.epfl.ch/labs/ibois/) · EPFL &nbsp
 [![Sponsor](https://img.shields.io/badge/Sponsor-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/petrasvestartas)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/petrasvestartas)
 
-</div>
+
 
 I build open-source geometry tooling for digital fabrication.
+</div>
 
 <div align="center">
 
