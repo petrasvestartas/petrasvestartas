@@ -2,7 +2,7 @@
 
 # Petras Vestartas
 
-**Computational design · Timber joinery · Geometry kernels**
+**Computational design · Timber joinery · Geometry kernels · Robotics · Computer vision**
 
 PhD in Timber Structures, [IBOIS](https://www.epfl.ch/labs/ibois/) · EPFL &nbsp;&nbsp;|&nbsp;&nbsp; Postdoctoral researcher, [Block Research Group](https://block.arch.ethz.ch) · ETH Zürich
 
