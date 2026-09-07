@@ -4,15 +4,20 @@
 
 **Computational design · Timber joinery · Geometry kernels**
 
+PhD in Timber Structures, [IBOIS](https://www.epfl.ch/labs/ibois/) · EPFL &nbsp;&nbsp;|&nbsp;&nbsp; Postdoctoral researcher, [Block Research Group](https://block.arch.ethz.ch) · ETH Zürich
+
 [![Website](https://img.shields.io/badge/vestartas.com-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vestartas.com)
 [![Sponsor](https://img.shields.io/badge/Sponsor-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/petrasvestartas)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/petrasvestartas)
 
 </div>
 
-I build open-source geometry tooling for architecture and digital fabrication — timber joint
-generation, 2D nesting for sheet material, and multi-language geometry kernels that run the same
-API from Python, C++ and Rust.
+I build open-source geometry tooling for architecture and digital fabrication: **timber joint
+generation**, **2D nesting** for sheet material, and **multi-language geometry kernels** that expose
+one identical API from Python, C++ and Rust.
+
+Most of it ships as C++ solvers behind Python and Grasshopper front ends, so it runs the same way
+in a research script and on a shop floor.
 
 ---
 
