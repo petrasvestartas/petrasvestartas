@@ -17,6 +17,9 @@ I build open-source geometry tooling for digital fabrication.
 [![Contribution activity](assets/contributions-light.svg)](https://github.com/petrasvestartas?tab=repositories#gh-light-mode-only)
 [![Contribution activity](assets/contributions-dark.svg)](https://github.com/petrasvestartas?tab=repositories#gh-dark-mode-only)
 
+[![Language distribution](assets/languages-light.svg)](https://github.com/petrasvestartas?tab=repositories#gh-light-mode-only)
+[![Language distribution](assets/languages-dark.svg)](https://github.com/petrasvestartas?tab=repositories#gh-dark-mode-only)
+
 </div>
 </div>
 
@@ -91,15 +94,6 @@ I build open-source geometry tooling for digital fabrication.
 ---
 
 <div align="center">
-
-<div align="center">
-
-[![Language distribution](assets/languages-light.svg)](https://github.com/petrasvestartas?tab=repositories#gh-light-mode-only)
-[![Language distribution](assets/languages-dark.svg)](https://github.com/petrasvestartas?tab=repositories#gh-dark-mode-only)
-
-</div>
-
----
 
 ### Support this work
 
