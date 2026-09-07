@@ -51,7 +51,6 @@ Open-source work in the labs and ecosystems I'm part of.
 - **[compas_cra](https://github.com/BlockResearchGroup/compas_cra)** — Coupled Rigid-Block Analysis — stability-aware design of discrete-element assemblies
 - **[compas_lmgc90](https://github.com/BlockResearchGroup/compas_lmgc90)** — COMPAS wrapper around the LMGC90 multi-body contact solver
 - **[compas_3dec](https://github.com/BlockResearchGroup/compas_3dec)** — discrete element modelling with Itasca 3DEC
-- **[compas_tf](https://github.com/BRG-research/compas_tf)** — topology finding for timber floor systems
 - **[compas_grid](https://github.com/BRG-research/compas_grid)** — grid structure models for multi-storey buildings
 - **[compas_cnc](https://github.com/BRG-research/compas_cnc)** — subtractive fabrication operations
 
