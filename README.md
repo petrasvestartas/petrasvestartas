@@ -12,7 +12,7 @@ PhD in Timber Structures, [IBOIS](https://www.epfl.ch/labs/ibois/) · EPFL &nbsp
 
 
 
-I build open-source geometry tooling for digital fabrication.
+I build open-source for geometry processing, digital fabrication and engineering.
 </div>
 
 <div align="center">
